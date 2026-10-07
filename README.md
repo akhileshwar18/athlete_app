@@ -2,7 +2,7 @@
 
 ### Machine Learning Based Athlete Analysis, Performance Prediction & Recommendations
 
-#  https://athleteapp-gavdjwqeenuahmvvbweraz.streamlit.app/
+# Live app : https://athleteapp-gavdjwqeenuahmvvbweraz.streamlit.app/
 
 ## 📌 Project Overview
 
